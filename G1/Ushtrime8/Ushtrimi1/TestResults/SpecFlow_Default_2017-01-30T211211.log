@@ -1,0 +1,86 @@
+﻿Discovering target: Default
+Discovering tests from assembly: C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\SpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlow/Default - 
+#1: Default - 
+#2: SpecFlow - 
+#3: Implementimi i nje stive.Do permbaje - 
+#4: Push element ne Stive - TestAssembly:SpecFlow/Feature:Implementimi+i+nje+stive.Do+permbaje/Scenario:Push+element+ne+Stive
+#5: Pop element nga Stiva - TestAssembly:SpecFlow/Feature:Implementimi+i+nje+stive.Do+permbaje/Scenario:Pop+element+nga+Stiva
+#6: Top element nga Stiva - TestAssembly:SpecFlow/Feature:Implementimi+i+nje+stive.Do+permbaje/Scenario:Top+element+nga+Stiva
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for SpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Jona\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given StackSize me madhesi 10
+Thread#0:T:pending: ImplementimiINjeStive_DoPermbajeSteps.GivenStackSizeMeMadhesi(10)
+Thread#0:B:And Stack nuk eshte plot
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When Ti push element i ri
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then Count do te rritet me 1
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And Stack do te behet 1 me pak
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  ImplementimiINjeStive_DoPermbajeSteps.GivenStackSizeMeMadhesi(10)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.7680439 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given StackSize me madhesi 10
+Thread#0:T:pending: ImplementimiINjeStive_DoPermbajeSteps.GivenStackSizeMeMadhesi(10)
+Thread#0:B:And Stack nuk eshte bosh
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When Ti pop element nga Stack
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then Count do te zbritet me 1
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And Stack do te behet 1 me shume
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  ImplementimiINjeStive_DoPermbajeSteps.GivenStackSizeMeMadhesi(10)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread
+Thread#0:Scheduler: using testitem #6 for thread
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Pending within 0.0310018 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given Stack me madhesi 10
+Thread#0:T:pending: ImplementimiINjeStive_DoPermbajeSteps.GivenStackMeMadhesi(10)
+Thread#0:B:When Stack nuk eshte bosh
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then Merr keto elemente
+Thread#0:T:skipped because of previous errors
+Thread#0:B:And Kthe keto elemente
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  ImplementimiINjeStive_DoPermbajeSteps.GivenStackMeMadhesi(10)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #6/0 is finished on thread #0 as Pending within 0.0750043 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 3
+Succeeded: 0
+Ignored: 0
+Pending: 3
+Skipped: 0
+Failed: 0

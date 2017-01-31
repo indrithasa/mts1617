@@ -1,0 +1,12 @@
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\obj\Debug\SpecFlow.csprojResolveAssemblyReference.cache
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\Default.srprofile
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\SpecFlow.dll.config
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\SpecFlow.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\Stack.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\bin\Debug\Stack.pdb
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Users\Jona\documents\visual studio 2013\Projects\SpecFlow\SpecFlow\obj\Debug\SpecFlow.pdb

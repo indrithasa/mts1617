@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AA9A710E-6966-4C5F-8742-8C61324CEEB7}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ushtrimi2", "Ushtrimi2\Ushtrimi2.csproj", "{FD9D3582-E7DE-4EC1-A654-DE2A3BF67416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingBot", "TestingBot\TestingBot.csproj", "{F3C15D16-DFF3-4924-8626-A349A6A78793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9D3582-E7DE-4EC1-A654-DE2A3BF67416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9D3582-E7DE-4EC1-A654-DE2A3BF67416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9D3582-E7DE-4EC1-A654-DE2A3BF67416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9D3582-E7DE-4EC1-A654-DE2A3BF67416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C15D16-DFF3-4924-8626-A349A6A78793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C15D16-DFF3-4924-8626-A349A6A78793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C15D16-DFF3-4924-8626-A349A6A78793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C15D16-DFF3-4924-8626-A349A6A78793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
